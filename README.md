@@ -1,6 +1,6 @@
 # My AppleScripts
 
-This is a collection of AppleScripts Ive written, primarily for use with the VoiceOver screen reader. A lot of these things have more modern/improved alternatives, but I figured I'd put this here in case its useful to someone.
+This is a collection of AppleScripts I've written, primarily for use with the VoiceOver screen reader. A lot of these things have more modern/improved alternatives, but I figured I'd put this here in case its useful to someone.
 
 ## Scripts.
 
